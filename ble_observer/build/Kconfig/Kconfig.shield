@@ -1,0 +1,4 @@
+osource "c:/Projects/NordicProjects/beacon/boards/shields/*/Kconfig.shield"
+osource "c:/Projects/NordicProjects/ble_scanner/boards/shields/*/Kconfig.shield"
+osource "c:/Projects/NordicProjects/ble_observer/boards/shields/*/Kconfig.shield"
+osource "C:/ncs/v2.1.2/nrf/boards/shields/*/Kconfig.shield"

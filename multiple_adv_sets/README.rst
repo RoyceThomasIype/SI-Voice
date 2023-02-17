@@ -26,16 +26,11 @@ To test the sample use your scanner device after each button click to observe th
 
 Building and running
 ********************
-.. |sample path| replace:: :file:`samples/bluetooth/multiple_adv_sets`
-
-.. include:: /includes/build_and_run_ns.txt
-
-.. _multiple_adv_sets_testing:
 
 Testing
 =======
 
-After programming the sample to your dongle or development kit, test it by performing the following steps:
+After programming the sample to your development kit, test it by performing the following steps:
 
 1. |connect_terminal_specific|
 #. Reset the kit.
